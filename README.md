@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=DC143C&height=250&section=header&text=Robin%20Yoon&fontColor=FFFFFF&fontSize=90&fontAlign=30&fontAlignY=40)
 
+# Hi, I'm Robin 👋
 
 
 [![Robin's GitHub stats](https://github-readme-stats.vercel.app/api?username=robinyoon-dev&show_icons=true&theme=radical)](https://github.com/robinyoon-dev/github-readme-stats)
@@ -30,6 +31,7 @@
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?&style=for-the-badge&logo=Firebase&logoColor=black)
 
 
 # :mailbox_with_mail: Contacts
