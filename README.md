@@ -1,9 +1,11 @@
-# Robin Yoon 😉
+# ❤️ Robin Yoon ❤️
+
+[![Robin's GitHub stats](https://github-readme-stats.vercel.app/api?username=robinyoon-dev&show_icons=true&theme=radical)](https://github.com/robinyoon-dev/github-readme-stats)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=robinyoon_dev)](https://solved.ac/robinyoon_dev/)
 
 
-
-
-# ❤Skills
+# 👩🏻‍💻Skills
 
 ### Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
