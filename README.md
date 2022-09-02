@@ -6,15 +6,11 @@
 [![Robin's GitHub stats](https://github-readme-stats.vercel.app/api?username=robinyoon-dev&show_icons=true&theme=radical)](https://github.com/robinyoon-dev/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=robinyoon_dev)](https://solved.ac/robinyoon_dev/)
 
-  
-<!--  
-  <a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imysh578&layout=compact&theme=nord&hide_border=true" /></a> 
--->
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robinyoon-dev&layout=Demo&theme=dark)
 
 # 👩🏻‍💻Skills
 
-### Platforms & Languages
+### Languages, Libraries, DBMS, Platforms etc.
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
