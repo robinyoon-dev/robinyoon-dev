@@ -1,9 +1,9 @@
 
 # Hi, I'm Robin 👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frobinyoon-dev&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-[![Robin's GitHub stats](https://github-readme-stats.vercel.app/api?username=robinyoon-dev&show_icons=true&theme=radical)](https://github.com/robinyoon-dev/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robinyoon-dev&layout=compact&theme=dark)
+<!-- 
+[![Robin's GitHub stats](https://github-readme-stats.vercel.app/api?username=robinyoon-dev&show_icons=true&theme=radical)](https://github.com/robinyoon-dev/github-readme-stats) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robinyoon-dev&layout=compact&theme=dark) -->
 
 
 # 👩🏻‍💻Skills
