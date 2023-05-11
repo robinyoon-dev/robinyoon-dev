@@ -43,7 +43,7 @@
 
 # :mailbox_with_mail: Contacts
 [![Twitter Badge](http://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/robinyoondev)](https://twitter.com/robinyoondev)
-[![Tistory Badge](http://img.shields.io/badge/-Tech%20blog-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://devrobin.tistory.com/)](https://devrobin.tistory.com/)
+[![Velog Badge](http://img.shields.io/badge/-Tech%20blog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://devrobin.tistory.com/)](https://velog.io/@robinyoondev)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:robinyoonofficial@gmail.com)](mailto:robinyoonofficial@gmail.com)
 
 
