@@ -52,7 +52,7 @@ I ✨like✨ practicing foreign languages, singing, and matcha latte 🍵.
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?&style=for-the-badge&logo=Firebase&logoColor=black)
 ![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white)
 
-## Latest Blog Post
+## 📃 Latest Blog Post
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=robinyoondev)](https://velog.io/@robinyoondev)
 
 ## 📈 GitHub Stats
