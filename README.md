@@ -1,12 +1,15 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frobinyoon-dev&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-## Hi, there! 👋
+## Hi, there! 안녕하세요! 大家好！👋
 
-I'm Robin YOON, a passionate front-end developer from KOREA.
+I'm **Robin YOON, a passionate front-end developer from KOREA.** 
+I ✨like✨ practicing foreign languages, singing, and matcha latte 🍵.
+
 
 - 🔭 I’m currently working on React Native
 - 🌱 I’m currently learning JavaScript Algorithms
 - 👀 I'm currently looking for a job
 
+- 💬 Ask me about whatever you want! 😉
 
 ## 🤝 Connect with me:
 
