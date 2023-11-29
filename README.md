@@ -5,9 +5,8 @@ I'm **Robin YOON, a passionate front-end developer from KOREA.**
 I ✨like✨ practicing foreign languages, singing, and matcha latte 🍵.
 
 
-- 🔭 I’m currently working on React Native
+- 🔭 I’m currently working on React.js, React Native
 - 🌱 I’m currently learning JavaScript Algorithms
-- 👀 I'm currently looking for a job
 
 - 💬 Ask me about whatever you want! 😉
 
