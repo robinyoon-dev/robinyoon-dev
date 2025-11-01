@@ -11,9 +11,6 @@ Currently, I'm studying Computer Science at university, continuously expanding m
 [![Velog Badge](http://img.shields.io/badge/-Blog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@robinyoondev)](https://velog.io/@robinyoondev) 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:robinyoonofficial@gmail.com)](mailto:robinyoonofficial@gmail.com)
  -->
- 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+Simplified+Chinese&size=30&letterSpacing=0.3rem&duration=1500&pause=100&color=CAEBF2&background=193342C4&vCenter=true&multiline=true&repeat=false&width=350&height=250&lines=%E4%B8%8D%E8%A6%81%E5%9B%9E%E7%AD%94;%E4%B8%8D%E8%A6%81%E5%9B%9E%E7%AD%94;%E4%B8%8D%E8%A6%81%E5%9B%9E%E7%AD%94;%E8%AD%A6%E5%91%8A%E4%BD%A0%E4%BB%AC%EF%BC%9A%E4%B8%8D%E8%A6%81%E5%9B%9E%E7%AD%94;%E5%A6%82%E6%9E%9C%E5%9B%9E%E7%AD%94%EF%BC%8C%E6%88%91%E4%BB%AC%E5%B0%B1%E4%BC%9A%E5%88%B0%E6%9D%A5%E3%80%82;%E4%BD%A0%E4%BB%AC%E7%9A%84%E4%B8%96%E7%95%8C%E5%B0%86%E8%A2%AB%E5%8D%A0%E9%A2%86%E3%80%82)](https://git.io/typing-svg)
-
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=robinyoon-dev&utm_content=farm">
 <img
