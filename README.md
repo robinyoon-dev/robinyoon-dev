@@ -110,6 +110,7 @@ Currently, I'm studying Computer Science at university, continuously expanding m
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robinyoon-dev&layout=compact)](https://github.com/robinyoon-dev/github-readme-stats)
 
 
+<!--
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=robinyoon-dev&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/robinyoon-dev"
@@ -117,6 +118,7 @@ Currently, I'm studying Computer Science at university, continuously expanding m
   height="300"
 />
 </a>
+-->
 
 ## Leetcode Stats
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=robinyoon-dev)
